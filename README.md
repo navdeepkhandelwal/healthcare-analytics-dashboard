@@ -67,15 +67,15 @@ End-to-end Healthcare Analytics project developed using SQL, Excel, Power BI, an
 
 ## Power BI Dashboard
 
-![Power BI Dashboard](Dashboard Screenshots/Power BI Dashboard.png)
+![Power BI Dashboard](./Dashboard%20Screenshots/Power%20BI%20Dashboard.png)
 
 ## Tableau Dashboard
 
-![Tableau Dashboard](Dashboard Screenshots/Tableau Dashboard.png)
+![Tableau Dashboard](./Dashboard%20Screenshots/Tableau%20Dashboard.png)
 
 ## Excel Dashboard
 
-![Excel Dashboard](Dashboard Screenshots/Excel Dashboard.png)
+![Excel Dashboard](./Dashboard%20Screenshots/Excel%20Dashboard.png)
 
 ## Key Insights
 - Chronic Disease Rate reached 80.35%, indicating significant long-term care demand.
